@@ -1,0 +1,51 @@
+﻿Log-13:56-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:06-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:12-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:13-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:14-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:15-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:16-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:17-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:18-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:19-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:20-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:21-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:22-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:23-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:24-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:25-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+
+Log-14:26-The variable name '@Thoigian' has already been declared. Variable names must be unique within a query batch or stored procedure.
+Must declare the scalar variable "@LL1".
+

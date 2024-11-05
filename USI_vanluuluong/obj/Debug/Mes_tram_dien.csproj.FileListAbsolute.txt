@@ -1,0 +1,1280 @@
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1008\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main1.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmSetting.resources
+D:\Mes tram dien\Mes_tram_dien1009\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmSetting.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1011\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmSetting.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1012\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmSetting.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1015\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\obj\Debug\Mes_tram_dien.frmCaidat.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1016\Mes_tram_dien\bin\Debug\S7.Net.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\S7.Net.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.csprojAssemblyReference.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.frmCaidat.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\Hutchinson Tuan\PC\Mes tram dien\Mes_tram_dien1104\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe.config
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\Mes_tram_dien.pdb
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\S7.Net.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.About.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.Form1.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.frmCaidat.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.Frmreport.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.FrmNhietdo.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.Properties.Resources.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.Main.resources
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.GenerateResource.cache
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe.licenses
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CoreCompileInputs.cache
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.csproj.CopyComplete
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.exe
+D:\Du an hien tai\USI\USI_PC_1201\Mes_tram_dien\obj\Debug\Mes_tram_dien.pdb
